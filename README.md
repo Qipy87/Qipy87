@@ -1,4 +1,4 @@
-[![Header](https://github.com/Qipy87/Qipy87/blob/main/assets/1238wzw8wi.png)]
+[![Header](https://github.com/Qipy87/Qipy87/blob/main/assets/imgonline-com-ua-Resize-j3fLxkjsgCp0L.png)]
 
 About Me
 
