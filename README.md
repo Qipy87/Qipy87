@@ -4,6 +4,6 @@
 
 
 ## Tools And Technologies
-![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-bange&logo=jira)
+![Jira](https://img.shields.io/badge/Jira-black?style=for-the-bange&logo=jira)
 
 Follwow Me
