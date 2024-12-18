@@ -8,8 +8,11 @@
 ![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-bange&logo=testrail&logoColor=65C179)
 ![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-bange&logo=Confluence&logoColor=1868DB)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-bange&logo=Postman&logoColor=FF6C37)
-![Android Studio](https://img.shields.io/badge/Android-Studio-black?style=for-the-bange&logo=Android-Studio&logoColor=50AF55)
+![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-bange&logo=Android_Studio&logoColor=50AF55)
 ![Genymotion](https://img.shields.io/badge/Genymotion-black?style=for-the-bange&logo=Genymotion&logoColor=A6246E)
-![VS Code](https://img.shields.io/badge/VS-Code-black?style=for-the-bange&logo=VS-Code&logoColor=0083D0)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=VS_Code&logoColor=0083D0)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
+![REST API](https://img.shields.io/badge/REST_API-black)
+
 
 Follwow Me
