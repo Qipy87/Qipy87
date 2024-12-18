@@ -10,7 +10,7 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-bange&logo=Postman&logoColor=FF6C37)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-bange&logo=Android&logoColor=50AF55)
 ![Genymotion](https://img.shields.io/badge/Genymotion-black?style=for-the-bange&logo=Genymotion&logoColor=A6246E)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=VS_Code&logoColor=0083D0)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=Vimeo&logoColor=0083D0)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
 ##
 ![REST API](https://img.shields.io/badge/REST_API-black)
