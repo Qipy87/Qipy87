@@ -12,7 +12,7 @@
 ![Genymotion](https://img.shields.io/badge/Genymotion-black?style=for-the-bange&logo=Genymotion&logoColor=A6246E)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=VS_Code&logoColor=0083D0)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
-## te
+##
 ![REST API](https://img.shields.io/badge/REST_API-black)
 
 
