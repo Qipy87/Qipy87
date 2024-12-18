@@ -5,5 +5,5 @@
 
 ## Tools And Technologies
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-bange&logo=jira&logoColor=217CF5)
-
+![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-bange&logo=testrail&logoColor=65C179)
 Follwow Me
