@@ -20,4 +20,5 @@
 ![JavaScript(basic_knowledge)](https://img.shields.io/badge/JavaScript(basic_knowledge)-black)
 
 
-Follwow Me
+## Follow Me
+![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)
