@@ -21,8 +21,9 @@
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-black)
 ![JavaScript(basic_knowledge)](https://img.shields.io/badge/JavaScript(basic_knowledge)-black)
 
-## Test Cases and ChekLists
+## Test Cases and CheckLists
 <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_22-28.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-12.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-00.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-28.png"  width="200" height="200">
+<img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-32.png"  width="200" height="200">
 
 
 ## Bugs
