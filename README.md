@@ -13,11 +13,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=Vimeo&logoColor=0083D0)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
 ##
-![REST_API](https://img.shields.io/badge/REST_API-black)
+![REST_API](https://img.shields.io/badge/Rest_API-black)
 ![SQL](https://img.shields.io/badge/SQL-black)
-![Chrome_Dev_Tools](https://img.shields.io/Chrome_Dev_Tools-black)
-![HTML/CSS](https://img.shields.io/HTML/CSS-black)
-![JavaScript(basic_knowledge)](https://img.shields.io/JavaScript(basic_knowledge)-black)
+![Chrome_Dev_Tools](https://img.shields.io/badge/Chrome_Dev_Tools-black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-black)
+![JavaScript(basic_knowledge)](https://img.shields.io/badge/JavaScript(basic_knowledge)-black)
 
 
 Follwow Me
