@@ -1,6 +1,6 @@
 ![](https://github.com/Qipy87/Qipy87/blob/main/assets/Evgeniy%20Kashevar.png)
 
-## I am a talented tester with 1 year of experience in software quality assurance. I have deep knowledge of testing methodologies, SDLC and STLC. I have practical experience in manual testing of various types of applications (web, mobile, desktop) using tools: Jira, TestRail, Postman(Api), Fiddler, Android Studio, VC Code, Docker. Focused on achieving high quality standards and continuous process improvement.
+## I am a talented tester with 1 year of experience in software quality assurance. I have deep knowledge of testing methodologies, SDLC and STLC. I have practical experience in manual testing of various types of applications (web, mobile, desktop) using tools: Jira, TestRail, Postman(Api), Fiddler, Android Studio, VS Code, Docker. Focused on achieving high quality standards and continuous process improvement.
 
 
 ## Tools And Technologies
@@ -13,7 +13,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=Vimeo&logoColor=0083D0)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
 ##
-![REST API](https://img.shields.io/badge/REST_API-black)
+![REST_API](https://img.shields.io/badge/REST_API-black)
+![SQL](https://img.shields.io/badge/SQL-black)
+![Chrome_Dev_Tools](https://img.shields.io/Chrome_Dev_Tools-black)
+![HTML/CSS](https://img.shields.io/HTML/CSS-black)
+![JavaScript(basic_knowledge)](https://img.shields.io/JavaScript(basic_knowledge)-black)
 
 
 Follwow Me
