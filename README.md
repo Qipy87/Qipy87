@@ -27,7 +27,7 @@
 
 
 ## Bugs
-<img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">
+<img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-39.png"  width="200" height="200">
 
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
