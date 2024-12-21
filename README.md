@@ -24,4 +24,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-bange&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/evgeniy-k-2b85bb337)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-bange&logo=Telegram&logoColor=26A5E4)](https://t.me/Qipy87)
-[![Viber](https://img.shields.io/badge/Viber-black?style=for-the-bange&logo=Viber&logoColor=7360F2)](viber://chat?number=+380933721064)
+[![Viber](https://img.shields.io/badge/Viber-black?style=for-the-bange&logo=Viber&logoColor=7360F2)](https://msng.link/o?380933721064=vi)
