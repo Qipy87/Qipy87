@@ -12,6 +12,8 @@
 ![Genymotion](https://img.shields.io/badge/Genymotion-black?style=for-the-bange&logo=Genymotion&logoColor=A6246E)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-bange&logo=Vimeo&logoColor=0083D0)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-bange&logo=Figma&logoColor=F24E1E)
+![Fiddler](https://img.shields.io/badge/Fiddler-black?style=for-the-bange&logo=Fiddler&logoColor=0084FF)
 ##
 ![REST_API](https://img.shields.io/badge/Rest_API-black)
 ![SQL](https://img.shields.io/badge/SQL-black)
