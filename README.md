@@ -23,6 +23,7 @@
 
 ## Test Cases and ChekLists
 ![](https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_22-28.png width="400" height="790")
+<img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_22-28.png"  width="400" height="300">
 
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
