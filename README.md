@@ -25,6 +25,9 @@
 <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_22-28.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-12.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-00.png"  width="200" height="200">
 
 
+## Bugs
+
+
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-bange&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/evgeniy-k-2b85bb337)
