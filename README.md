@@ -30,7 +30,7 @@
 <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-39.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-46.png"  width="200" height="200">
 
 ## Postman
-<img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-24.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-41.png"  width="200" height="200">  
+<img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-24.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-41.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-48.png"  width="200" height="200">
 
 
 ## Follow Me
