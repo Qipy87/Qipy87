@@ -27,7 +27,7 @@
 
 
 ## Bugs
-<img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-39.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-46.png"  width="200" height="200">
+<img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-39.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-46.png"  width="200" height="200"> <a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing">MDN</a>
 
 ## Postman
 <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-24.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-41.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-48.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-58.png"  width="200" height="200">
