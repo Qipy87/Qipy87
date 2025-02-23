@@ -23,7 +23,7 @@
 
 ## Test Cases and CheckLists
 <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_22-28.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-12.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-00.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-28.png"  width="200" height="200">
-<img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-32.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Checklist/2025-02-23_20-46.png"  width="200" height="200">
+<img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-32.png"  width="200" height="200">  [<img src="https://github.com/Qipy87/Qipy87/blob/main/Checklist/2025-02-23_20-46.png"  width="200" height="200">](https://docs.google.com/spreadsheets/d/1yBowNbMginelLjeQcn_ErXrTB2Apob9m3lgYOmJFri4/edit?usp=sharing)
 
 
 ## Bugs
