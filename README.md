@@ -35,6 +35,9 @@
 ## Test Plan
 <a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing">Test Plan</a>
 
+## Rozetka
+
+
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-bange&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/evgeniy-k-2b85bb337)
