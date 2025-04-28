@@ -36,7 +36,7 @@
 <a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing">Test Plan</a>
 
 ## Rozetka
-
+<img src="https://github.com/Qipy87/Qipy87/blob/main/Rozetka/2025-04-28_21-33.png"  width="200" height="200">
 
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
