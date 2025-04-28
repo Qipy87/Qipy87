@@ -33,11 +33,11 @@
 <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-24.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-41.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-48.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-58.png"  width="200" height="200">
 
 ## Test Plan
-<a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing">Test Plan</a>
+<a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing" target="_blank">Test Plan</a>
 
 ## Rozetka
 [![Checklist](<img src="https://github.com/Qipy87/Qipy87/blob/main/Rozetka/2025-04-28_21-33.png"  width="200" height="200">)]
-(<a href="https://docs.google.com/spreadsheets/d/1yBowNbMginelLjeQcn_ErXrTB2Apob9m3lgYOmJFri4/edit?usp=sharing" target="_blank">Checklist</a>)
+(<a href="https://docs.google.com/spreadsheets/d/1yBowNbMginelLjeQcn_ErXrTB2Apob9m3lgYOmJFri4/edit?usp=sharing">Checklist</a>)
 
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
