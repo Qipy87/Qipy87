@@ -36,7 +36,7 @@
 <a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing" target="_blank">Test Plan</a>
 
 ## Rozetka
-[![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Rozetka/2025-04-28_21-33.png"  width="200" height="200")]
+[![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Rozetka/2025-04-28_21-33.png)]
 (https://docs.google.com/spreadsheets/d/1yBowNbMginelLjeQcn_ErXrTB2Apob9m3lgYOmJFri4/edit?usp=sharing)
 
 ## Follow Me
