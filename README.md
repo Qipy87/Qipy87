@@ -41,6 +41,7 @@
 ## Certificate
 [![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Certificate/2025-05-10_22-22.png)](https://drive.google.com/file/d/1Vbr0bC7hchIRI8AP2Z0m4ZqTE6067XVs/view?usp=sharing, "MateAcademy")
 
+
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-bange&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/evgeniy-k-2b85bb337)
