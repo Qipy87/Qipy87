@@ -39,7 +39,7 @@
 [![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Rozetka/2025-04-28_21-33-1.png)](https://docs.google.com/spreadsheets/d/1yBowNbMginelLjeQcn_ErXrTB2Apob9m3lgYOmJFri4/edit?usp=sharing, "Checklist")
 
 ## Certificate
-[![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Certificate/2025-05-10_22-22.png)](https://drive.google.com/drive/folders/1R4DO9musx4qG1HDGKaZKyUuMZR0lyzs2, "MateAcademy")
+[![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Certificate/2025-05-10_22-22.png)](https://drive.google.com/file/d/1Vbr0bC7hchIRI8AP2Z0m4ZqTE6067XVs/view?usp=sharing, "MateAcademy")
 
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
