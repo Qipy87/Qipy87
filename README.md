@@ -38,6 +38,8 @@
 ## Rozetka
 [![Checklist](https://github.com/Qipy87/Qipy87/blob/main/Rozetka/2025-04-28_21-33-1.png)](https://docs.google.com/spreadsheets/d/1yBowNbMginelLjeQcn_ErXrTB2Apob9m3lgYOmJFri4/edit?usp=sharing, "Checklist")
 
+## Certificate
+
 ## Follow Me
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-bange&logo=Gmail&logoColor=EA4335)](mailto:qipy1987@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-bange&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/evgeniy-k-2b85bb337)
