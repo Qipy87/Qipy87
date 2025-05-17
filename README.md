@@ -33,7 +33,7 @@
 <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-24.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-41.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-48.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-58.png"  width="200" height="200">
 
 ## Mobile Testing
-[![Mobile Testing](https://github.com/Qipy87/Qipy87/blob/main/Mobilt%20Testing/2025-05-17_22-56.png)](https://docs.google.com/spreadsheets/d/1D_fdRVBtDN2lJZFQEYy6ia0sf0N99ARIP5FDQ1wUV1I/edit?usp=sharing, "Logs")
+[![Mobile Testing](https://github.com/Qipy87/Qipy87/blob/main/Mobilt%20Testing/2025-05-17_22-56.png)](https://docs.google.com/spreadsheets/d/1D_fdRVBtDN2lJZFQEYy6ia0sf0N99ARIP5FDQ1wUV1I/edit?usp=sharing, "Logs") [![Casino.ua](https://github.com/Qipy87/Qipy87/blob/main/Mobilt%20Testing/2025-05-17_23-20.png)](https://docs.google.com/spreadsheets/d/16UBaVTN3PzGhFJvmr3B1Jgt0q4hOlGViW83BJIjEYWE/edit?usp=sharing, "Bugs")
 
 ## Test Plan
 <a href="https://docs.google.com/document/d/1OakQrZTOtEzdq_89dLF3l8NE6SlRGjolT2I2Mq1eKVA/edit?usp=sharing" target="_blank">Test Plan</a>
