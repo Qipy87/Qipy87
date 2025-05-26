@@ -27,7 +27,7 @@
 
 
 ## Bugs
-<img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-39.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-46.png"  width="200" height="200"> 
+<img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-21.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-39.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Bugs/2024-12-21_23-46.png"  width="200" height="200"> [![Bug](https://github.com/Qipy87/Qipy87/blob/main/Bugs/images%20(1).png)](https://docs.google.com/spreadsheets/d/13TA0RVe0CKpohoRpeONSwdRxXEESU9zy2KG4QOJSO4I/edit?usp=sharing, "Jooble")
 
 ## Postman
 <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-24.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-41.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-48.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/Postman%20(API)/2024-12-22_20-58.png"  width="200" height="200">
