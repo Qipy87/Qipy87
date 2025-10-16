@@ -14,12 +14,15 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-bange&logo=Docker&logoColor=1D63ED)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-bange&logo=Figma&logoColor=F24E1E)
 ![Fiddler](https://img.shields.io/badge/Fiddler-black?style=for-the-bange&logo=Fiddler&logoColor=0084FF)
+![Playwright]((https://img.shields.io/badge/Playwright-black?style=for-the-bange&logo=Playwright&logoColor=0083D0))
 ##
 ![REST_API](https://img.shields.io/badge/Rest_API-black)
 ![SQL](https://img.shields.io/badge/SQL-black)
 ![Chrome_Dev_Tools](https://img.shields.io/badge/Chrome_Dev_Tools-black)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-black)
 ![JavaScript(basic_knowledge)](https://img.shields.io/badge/JavaScript(basic_knowledge)-black)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black)
 
 ## Test Cases and CheckLists
 <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_22-28.png" width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-12.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-00.png"  width="200" height="200">  <img src="https://github.com/Qipy87/Qipy87/blob/main/TestCases/2024-12-21_23-28.png"  width="200" height="200">
